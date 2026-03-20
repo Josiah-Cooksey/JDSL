@@ -103,7 +103,7 @@ try {
                             }
                             
                             // 
-                            // gotta brute force try all the sub-stirng combinations to make sure we 
+                            // gotta brute force try all the sub-string combinations to make sure we 
                             // execute as comments as JDSL-y possible
                             // 
                             tryNext: while (true) {
